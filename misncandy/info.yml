@@ -1,0 +1,23 @@
+id: IDexample
+profileUrl: ${path}/photos/profile.png
+info:
+  born: '1999-11-30'
+  # 出生日期
+  died: '2024-03-31'
+  # 离世日期
+websites:
+    # 可按照重要性或内容丰富度排列，内容较少的可以不往上放
+    inconfiy:simple-icons:bluesky: https://bsky.app/profile/example.bsky.social
+    # Bsky 账号
+    twitter: https://twitter.com/exsample
+    # 推特 / X 账号
+    zhihu: https://www.zhihu.com/people/example
+    # 知乎账号
+    Bilibili: https://space.bilibili.com/numberexample
+    # Bilibili 个人空间 （因特殊原因，谨慎添加）
+    github: https://github.com/example
+    # Github 账号
+    iconify:ri:netease-cloud-music-line: https://music.163.com/#/user?id=unmberexample
+    # 网易云账号
+    blog: https://web.archive.org/web/linkexample
+    # 个人网站地址
